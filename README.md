@@ -1,7 +1,7 @@
 # cloud_exploration
 An exploration into standing up a full server on AWS with plum
 
-- Reqs:
+- Reqs: \n
   -> Route 53
   -> 2 S3 buckets
   -> 2 cloud front
